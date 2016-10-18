@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: spark-assembly-1.6.1-hadoop2.4.0.jar scala-actors-migratio
+ n.jar scala-actors.jar scala-library.jar scala-reflect.jar scala-swin
+ g.jar
+Main-Class: TFDF
+
